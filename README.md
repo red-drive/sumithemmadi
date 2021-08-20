@@ -46,11 +46,11 @@ _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Co
 #### 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
+[![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
+[![Twitter](https://img.shields.io/badge/sumithemmadi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
+[![Telegram](https://img.shields.io/badge/sumithemmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
+[![Facebook](https://img.shields.io/badge/sumithemmadi-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
+[![Instagram](https://img.shields.io/badge/sumithemmadi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
 
 <!-- #### 😄 Pronouns: ...
 #### ⚡ Fun fact: ...-->
