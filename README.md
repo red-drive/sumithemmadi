@@ -2,10 +2,10 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;This+is+test+line2)](https://git.io/typing-svg)
-I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Contributer. I am a part of Linux from last 1 years.
+_I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Contributer. I am a part of Linux from last 1 years._
 
 ### 🛠 My skills include 
--   Web Developer
+-   _Web Developer_
 ### 🔭 I’m currently working on ...
 - _Problem Solving Skills in Data Structures and Algorithms._
 ### 🌱 I’m currently learning ...
