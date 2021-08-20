@@ -16,16 +16,11 @@ I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Con
   ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
+  ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-<!--  ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
-  ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![Sass](https://img.shields.io/badge/-Sass-040E2C?style=for-the-badge&logo=sass&logoColor=cc6699)
-  ![Less](https://img.shields.io/badge/-Less-040E2C?style=for-the-badge&logo=less&logoColor=428bca)
+  ![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python&logoColor=white)
   <br>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-ExpressJS-040E2C?style=for-the-badge&logo=express) -->
   ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
   <br>
@@ -44,7 +39,7 @@ I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Con
 <!-- #### 📫 How to reach me: ... -->
 #### 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto: sumithemmadi@protonmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
