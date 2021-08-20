@@ -43,10 +43,18 @@ I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Con
 #### 💬 Ask me about ...
 <!-- #### 📫 How to reach me: ... -->
 #### 📫 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto: sumithemmadi@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
+
 <!-- #### 😄 Pronouns: ...
 #### ⚡ Fun fact: ...-->
 
-
+### More
 [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 [![sumithemmadi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
