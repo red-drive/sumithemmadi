@@ -1,7 +1,7 @@
 ## Hi there 🙌, I'm Sumith
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;This+is+test+line2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;)](https://git.io/typing-svg)
 _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Contributer. I am a part of Linux from last 1 years._
 
 ### 🛠 My skills include 
