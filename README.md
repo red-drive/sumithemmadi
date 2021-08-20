@@ -1,4 +1,5 @@
 ## Hi there 🙌, I'm Sumith
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Developer;This+is+test+line1;This+is+test+line2)](https://git.io/typing-svg)
 **sumithemmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
