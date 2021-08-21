@@ -33,8 +33,8 @@ _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Co
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
   <br>
   ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
-  [![GitLab](https://img.shields.io/badge/GitLab-040E2C?style=for-the-badge&logo=gitlab&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
+  [![GitLab](https://img.shields.io/badge/GitLab-040E2C?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sumithemmadi)
   ![Heroku](https://img.shields.io/badge/-Heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=6567a5)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
