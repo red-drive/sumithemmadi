@@ -38,7 +38,7 @@ _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Co
   ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white)
 
-[![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)]
 
 <!--
 #### 🤔 I’m looking for help with ...
