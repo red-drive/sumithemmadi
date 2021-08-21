@@ -59,7 +59,7 @@ _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Co
 #### ⚡ Fun fact: ...-->
 
 ### More
-[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-[![sumithemmadi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sumithemmadi/)
+[![sumithemmadi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi)
+[![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi)
 
