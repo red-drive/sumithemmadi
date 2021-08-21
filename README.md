@@ -13,8 +13,8 @@ _I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Co
 ### 🌱 I’m currently learning ...
   ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
-  ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
 ### 👯 I’m looking to collaborate on ...
