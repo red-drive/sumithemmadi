@@ -2,7 +2,14 @@
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 [![Profile views](https://gpvc.arturio.dev/sumithemmadi)](https://github.com/sumithemmadi/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sumithemmadi/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;)](https://git.io/typing-svg)
+-->
+<br />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrR1Pim9vF7WqgbR27Wi_cn6GDUaCYV84GQ&usqp=CAU" >
+
+<img align="right" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi.github.io/main/round-profile.png" width="160px" style="max-width:100%;">
+
+### ⭐About me
 
 - _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technologyand , Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ </br>
 - _I like to build things with Deep Learning/Machine Learning, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks._</br>
@@ -10,7 +17,7 @@
 - _Check out my full [projects list here](/projects_list)._
 
 
-### 🛠 My skills include 
+### 🛠 My skills include
 -   _Web Developer_
 
 ### 🔭 I’m currently working on ...
