@@ -2,9 +2,9 @@
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 [![Profile views](https://gpvc.arturio.dev/sumithemmadi)](https://github.com/sumithemmadi/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sumithemmadi/)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;)](https://git.io/typing-svg)
-_I am undergraduate IT student, Web Developer, UI/UX Designer and Open Source Contributer. I am a part of Linux from last 1 years._
+##### _Hey I'm sumith I am undergraduate IT student and web developer I like to build things with Deep Learning/Machine Learning, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. Dreaming up ideas and making them come true is where my passion lies. Check out my full projects list here._
+
 
 ### 🛠 My skills include 
 -   _Web Developer_
