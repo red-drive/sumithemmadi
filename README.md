@@ -36,7 +36,7 @@
 
 ### 🛠 Languages and Tools I use 
 
-- ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
+  ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
@@ -61,7 +61,7 @@
 #### 📫 How to reach me: ... -->
 
 #### 📫 Connect with me:
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
 [![Twitter](https://img.shields.io/badge/sumithemmadi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
