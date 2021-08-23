@@ -11,7 +11,7 @@
 
 ### ⭐About me
 
-- _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technologyand , Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ </br>
+- _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technology, Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ </br>
 - _I like to build things with Deep Learning/Machine Learning, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks._</br>
 - _Dreaming up ideas and making them come true is where my passion lies._</br>
 - _Check out my full [projects list here](/projects_list)._
@@ -24,7 +24,7 @@
 - _Problem Solving Skills in Data Structures and Algorithms._
 
 ### 🌱 I’m currently learning ...
-  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+-  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
@@ -36,17 +36,15 @@
 
 ### 🛠 Languages and Tools I use 
 
-  ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
+- ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
   ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python&logoColor=white)
-  <br>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
   ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
-  <br>
   ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
   [![GitLab](https://img.shields.io/badge/GitLab-040E2C?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sumithemmadi)
@@ -63,7 +61,7 @@
 #### 📫 How to reach me: ... -->
 
 #### 📫 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
 [![Twitter](https://img.shields.io/badge/sumithemmadi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
