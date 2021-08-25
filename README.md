@@ -12,7 +12,7 @@
 ### ⭐About me
 
 - _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technology, Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ </br>
-- _I like to build things with Deep Learning/Machine Learning, Docker, Python, JavaScript)_
+- _I like to build things with Deep Learning/Machine Learning, Docker, Python, JavaScript , PHP_
 <!--
   modern backend APIs, and modern frontend frameworks._</br>
 -->
