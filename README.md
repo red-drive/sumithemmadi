@@ -7,7 +7,7 @@
 <br />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrR1Pim9vF7WqgbR27Wi_cn6GDUaCYV84GQ&usqp=CAU" >
 
-<img align="right" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi.github.io/main/round-profile.png" width="160px" style="max-width:100%;">
+<img align="right" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi.github.io/main/round-profile.png" width="140px" style="max-width:100%;">
 
 ### ⭐About me
 
